@@ -22,7 +22,6 @@
   <img align="center" alt="edu-numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="edu-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="edu-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="right" alt="edu" height="150" style="border-radius:50px;" src="https://instagram.fopo3-2.fna.fbcdn.net/v/t51.2885-19/s320x320/247313442_256265496449374_8057956295422700111_n.jpg?_nc_ht=instagram.fopo3-2.fna.fbcdn.net&_nc_ohc=5pAXS7BLBY8AX85FyTm&edm=ABfd0MgBAAAA&ccb=7-4&oh=7106794e822dff0389dfb04e5c5e3ff3&oe=617AAA43&_nc_sid=7bff83?width=676&height=676">
 </div>
 
   ##
