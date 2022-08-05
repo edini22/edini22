@@ -34,5 +34,5 @@
   <a href="https://paypal.me/ed1ni?locale.x=pt_PT" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/edini22/edini22/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
