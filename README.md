@@ -34,4 +34,9 @@
  
   ![Snake animation](https://github.com/edini22/edini22/blob/output/github-contribution-grid-snake.svg)
   
+  <div align="center"><br> 
+    <p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{Sequeira12}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+  </div>
+  
 </div>
