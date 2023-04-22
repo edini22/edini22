@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Html
 - 🔭 I’m currently studying at UC
 - ⚡ Fun fact: Yamaha and BMW fan
 
