@@ -33,7 +33,6 @@
   <a href="https://open.spotify.com/user/21rs73cgg7qqhlbsbb62nqcsq?si=cb9b9b1179474fb4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://paypal.me/ed1ni?locale.x=pt_PT" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/edini22/edini22/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center"><br> 
     <p>:eyes: 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
