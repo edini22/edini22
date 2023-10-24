@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Html
-- 🔭 I’m currently studying at UC
+- 🌱 I’m currently learning JS
+- 🔭 I’m currently studying at UMinho
 - ⚡ Fun fact: Yamaha and BMW fan
 
 <div align="center">
