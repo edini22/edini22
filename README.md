@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JS<br>🔭 I’m currently studying at UMinho<br>⚡ Fun fact: Yamaha and BMW fan
+🌱 I’m currently learning Rust<br>🔭 I’m currently studying at UMinho<br>⚡ Fun fact: Yamaha and BMW fan
 
 
 ## 🌐 Socials:
