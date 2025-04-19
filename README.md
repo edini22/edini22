@@ -13,7 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edini22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<img src="https://raw.githubusercontent.com/edini22/edini22/output/snake.svg" animation" />
+<img src="https://raw.githubusercontent.com/edini22/edini22/output/snake.svg" alt="Snake animation" />
+
 
 [![](https://visitcount.itsvg.in/api?id=edini22&icon=4&color=0)](https://visitcount.itsvg.in)
 
