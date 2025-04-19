@@ -14,7 +14,7 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edini22&label=Profile%20views&color=0e75b6&style=flat" alt="edini22" /> </p>
-<img src="https://raw.githubusercontent.com/edini22/edini22/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/edini22/edini22/output/snake.svg" alt="Snake animation" /> -->
 
 
   ## 💰 You can help me by Donating
